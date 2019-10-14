@@ -1,55 +1,100 @@
-## Your Name
+/* #*/ export const PERSON = `
+name:
+  first: Peter
+  middle: Kehinde
+  last: Olofinmoyin
+about: Hi, I'm Peter. A Software Developer and software test 'Dynamo', notorious for approaching projects with a maximum of gusto and minimum of fuss. 
+My focus is on delivering the most complex information systems, having worked on projects with companies ranging from the Fortune 500 to the most innovative startups and technical teams. 
+Seeking the next challenging role greenfield or bluesky :)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+position: Software Developer
 
-## Skills
+birth:
+  year: -- On request --
+  location: London
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+experience:
+- company: AIG LIFE Ltd
+  position: Senior Test Consultant (Contract)
+  timeperiod: April 2018 - May 2019
+  description: Implementing the test framework on the IT Transformation project for this giant of the Insurance industry - writing test framework 
+  from scratch based on Selenium WebDriver, .NET and Gherkin.
+  website: https://bit.ly/31ecA2m
 
-#### This Skill
+- company: Netcel
+  position: Test Lead (Permanent)
+  timeperiod: January 2017 - March 2018
+  description: Client facing role, Working with world beating digital agency Netcel - implemented cool tools and delivered production software.
 
-- Experience
-- Achievements
-- Evidence
+- company: IBM
+  position: Senior Test Consultant
+  timeperiod: May 2016 - August 2016
+  description: Performance Test colleague on the Willams & Glyn (W&G) project mandated by the European Commission - sponsored by RBS (IBM delivering partner.)
 
-#### Another Skill
+- company: MICROSOFT, Reading
+  position: Principal Test Consultant
+  timeperiod: Jan. 2016 - Feb. 2016
+  description: Joined in implementing Dynamics 360 CRM project, for the Thames Valley Police (TVP) & Hampshire Constabulary (HC) forces, ()Microsoft delivering partner).
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+education:
+- degree: BSc.(Hons) Computer Science
+  timeperiod: Jan 2001 - July 2005
+  description: : Internet Game Programming, Data Structures & Algorithms and Software System Engineering and Design.
+  website: https://bit.ly/31ecA2m
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+# skill level goes 0 to 100
+skills:
+- name: HTML5
+  level: 99
+- name: CSS3
+  level: 95
+- name: JavaScript
+  level: 97
+- name: Node.js
+  level: 93
+- name: Angular 2
+  level: 60
+- name: TypeScript
+  level: 80
+- name: ES.Next
+  level: 70
+- name: Docker
+  level: 99
+- name: Automated testing (Specflow/Selenium/WebDriver IO)
+  level: 99
+knowledge: Also proficient in coordinating UAT at all stakeholder levels of establishment.
 
-## Education
+projects:
+- name: best-resume-ever
+  platform: Vue
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+  url: https://github.com/salomonelli/best-resume-ever
 
-#### Makers Academy (start_date to end_date)
+hobbies:
+- name: Violin
+  Style: classicals
+  url: https://www.ellso.org/
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- name: Karate
+  Style: Kofukan (Shito-Ryu)
+  url: https://www.englishkaratefederation.com/clubs2/skdk.php
 
-#### Your University / College (start_date to end_date)
+- name: Cycling
+  Style: Road-bike
+  url: (follow me on strava)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+contributions:
+- name: TBD
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  url: https://github.com/salomonelli/best-resume-ever
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+contact:
+  email: peter.olofinmoyin@bcs.org
+  phone: 0796 0994446
+  street: 24A Leasowes Rd.
+  city: London
+  website: https://bit.ly/31ecA2m
+  github: KOlofinmoyin
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: en
+`
