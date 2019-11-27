@@ -29,7 +29,7 @@ skills:
 knowledge: Also proficient in coordinating UAT at all stakeholder levels of establishment.
 
 ### attributes:
-** I can make software
+**I can make software**
 - I can TDD anything
 - I can program fluently
 - I can debug anything
