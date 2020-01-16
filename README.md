@@ -41,7 +41,7 @@ company: **Netcel**
 company: **IBM**
 - position: **Senior Test Consultant**
 - timeperiod: May 2016 - August 2016
-- description: Performance Test colleague on the Willams & Glyn (W&G) project mandated by the European Commission - sponsored by RBS (IBM delivering partner.)
+- description: Performance Test colleague on the Williams & Glyn (W&G) project mandated by the European Commission - sponsored by RBS (IBM delivering partner.)
 
 company: **MICROSOFT, Reading**
 - position: **Principal Test Consultant**
@@ -84,7 +84,7 @@ name: Cycling
 - https://codebar.io/london
 
 ### contact:
-- email: peter.olofinmoyin@bcs.org
+- email: kehindeolofinmoyin@hotmail.com
 - phone: 0796 0994446
 - city: London
 - website: https://bit.ly/31ecA2m
