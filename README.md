@@ -1,6 +1,6 @@
 ## Peter Kehinde Olofinmoyin
 ### about:
-Hi, I'm Peter. A Software Developer and software test 'Dynamo', notorious for approaching projects with a maximum of gusto and minimum of fuss.
+Hi, I'm Kehinde Peter. A Software Developer and software test 'Dynamo', notorious for approaching projects with a maximum of gusto and minimum of fuss.
 My focus is on delivering the most complex information systems, having worked on projects with companies ranging from the Fortune 500 to the most innovative startups and technical teams.
 Seeking the next challenging role greenfield or bluesky :)
 
@@ -54,11 +54,17 @@ company: **MICROSOFT, Reading**
 - description: : Internet Game Programming, Data Structures & Algorithms and Software System Engineering and Design.
   website: https://bit.ly/31ecA2m
 
-### projects:
+### projects💼:
 - name: **Makers team-project**
-- platform: iOS
-- description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- url: https://github.com/salomonelli/best-resume-ever
+- platform: react
+- description: An API-based route planner app. for runners and dog-walkers in London. 🏃
+- url: https://github.com/Fantastic-Makers-Group-2-final-Project/Route_Around
+
+
+- name: **Acebook-GreenBook team-project**
+- platform: Ruby on rails
+- description: It’s a clone of a well known social media platform. 😆
+- url: https://github.com/elfiyang16/acebook-greenbook
 
 ### hobbies:
 name: Violin
@@ -71,12 +77,11 @@ name: Karate
 
 name: Cycling
 - Style: Road-bike
-- url: (follow me on strava)
+- url: (follow me on strava: https://www.strava.com/athletes/4048898)
 
 ### contributions:
-name: TBD
-- description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-- url: https://github.com/salomonelli/best-resume-ever
+- https://github.com/24pullrequests/24pullrequests
+- https://codebar.io/london
 
 ### contact:
 - email: peter.olofinmoyin@bcs.org
