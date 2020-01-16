@@ -6,28 +6,6 @@ Seeking the next challenging role greenfield or bluesky :)
 
 ### position: Software Developer
 
-### skill level goes 0 to 100
-skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
-- name: Automated testing (Specflow/Selenium/WebDriver IO)
-  level: 99
-knowledge: Also proficient in coordinating UAT at all stakeholder levels of establishment.
-
 ### attributes:
 **I can make software**
 - I can TDD anything
