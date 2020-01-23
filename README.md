@@ -41,6 +41,17 @@ company: **MICROSOFT, Reading**
 - description: Joined in implementing Dynamics 360 CRM project, for the Thames Valley Police (TVP) & Hampshire Constabulary (HC) forces, ()Microsoft delivering partner).
 
 ### <a name="education">education</a>:
+
+- degree: **Makers Academy**
+- timeperiod: Sept 2019 - Jan. 2020
+- description: Full stack development adventure: MVC, TDD, Agile & Pairing.
+  website: https://makers.tech/
+
+- degree: **MSc.(Diploma) Software Engineering**
+- timeperiod: April 2009 - Feb 2011
+- description: A Programme of short courses in a variety of subjects: (REN) Requirements Engineering, (STE) Software Testing , (XML) Extensible Markup Language.
+  website: https://www.cs.ox.ac.uk/softeng
+
 - degree: **BSc.(Hons) Computer Science**
 - timeperiod: Jan 2001 - July 2005
 - description: Analysis & Design, Data Structures & Algorithms and Software System Engineering and Design, etc.
