@@ -6,24 +6,13 @@ Seeking the next challenging role greenfield or bluesky :)
 
 ### position: Software Developer
 
-### attributes:
-**I can make software**
-- I can TDD anything
-- I can program fluently
-- I can debug anything
-- I can model anything
-- I can refactor anything
-- I have a methodical approach to solving problems
-- I'm equipped for long term growth
+### Projects:
+|Title | Description | Tech Stack | Test tools|
+| :-:| :-:| :-:| :-:|
+| <a href="http://routearound.herokuapp.com/">Route Around </a> | My group delivered the route-around web app., on time and to budget :laughing: A circular route geeneration app. for the urban runner/ dog walker. I enjoyed delivering key story-points on the project, also assisting with coordinating the background workflow of the project; cheering on every achievement; from the minutest marker drop from googlemaps directionService, to the sheer brilliance of other team-mates. View our <a href="https://github.com/Fantastic-Makers-Group-2-final-Project/Route_Around">README</a> | React, Node.js, Express, Google Maps | Jest, Jasmine, Travis, Heroku|
+|<a href="https://github.com/robertwoolley99/acebook-greenbook">Acebook - Greenbook </a> | The Greenbook team delivered their Makers group project as specified by Product Owner of the Facebook web app. (using agile principles) The project essentially exercised how well we worked to client specification, but the team stuck in and seized the opportunity (frequently groping in the dark) to deliver something pretty decent. View our <a href="https://github.com/robertwoolley99/acebook-greenbook"> README </a> :grin: | Ruby on Rails, CSS bootstrap, HTML | Capybara, RSpec, Selenium-webdriver, Travis, Codeclimate, Heroku |
+| <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> Bank Tech test </a> | I enjoyed using TDD to complete this interactive commandline program, showcasing basic but fundamental elements of OO programming. View <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> README </a> :wink:| Ruby, Cmdline | RSpec | 
 
-**I manage my own wellbeing**
-- I can learn anything by myself
-
-**I help my teams succeed**
-- I use an agile product development process
-- I write code that is easy to change
-- I can justify the way I work
-- I grow collaboratively
 
 ### experience:
 company: **AIG LIFE Ltd**
@@ -53,18 +42,6 @@ company: **MICROSOFT, Reading**
 - timeperiod: Jan 2001 - July 2005
 - description: Analysis & Design, Data Structures & Algorithms and Software System Engineering and Design, etc.
   website: https://bit.ly/31ecA2m
-
-### projects💼:
-- name: **Makers team-project**
-- platform: react
-- description: An API-based route planner app. for runners and dog-walkers in London. 🏃
-- url: https://github.com/Fantastic-Makers-Group-2-final-Project/Route_Around
-
-
-- name: **Acebook-GreenBook team-project**
-- platform: Ruby on rails
-- description: It’s a clone of a well known social media platform. 😆
-- url: https://github.com/elfiyang16/acebook-greenbook
 
 ### hobbies:
 name: Violin
