@@ -42,20 +42,20 @@ company: **MICROSOFT, Reading**
 
 ### <a name="education">education</a>:
 
-  bootcamp: **Makers Academy**
+ bootcamp: **Makers Academy**
 - timeperiod: Sept 2019 - Jan. 2020
 - description: Full stack development adventure: MVC, TDD, Agile & Pairing.
-  website: https://makers.tech/
+- website: https://makers.tech/
 
-  degree: **MSc.(Diploma) Software Engineering**
+ degree: **MSc.(Diploma) Software Engineering**
 - timeperiod: April 2009 - Feb 2011
 - description: A Programme of short courses in a variety of subjects: (REN) Requirements Engineering, (STE) Software Testing, (XML) Extensible Markup Language.
-  website: https://www.cs.ox.ac.uk/softeng
+- website: https://www.cs.ox.ac.uk/softeng
 
-  degree: **BSc.(Hons) Computer Science**
+ degree: **BSc.(Hons) Computer Science**
 - timeperiod: Jan 2001 - July 2005
 - description: Analysis & Design, Data Structures & Algorithms and Software System Engineering and Design, etc.
-  website: https://bit.ly/31ecA2m
+- website: https://bit.ly/31ecA2m
 
 ### <a name="hobbies">hobbies</a>:
 name: Violin
