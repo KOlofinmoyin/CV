@@ -1,8 +1,8 @@
 ## Peter Kehinde Olofinmoyin
 ### about:
 Hi, I'm Kehinde Peter. A Software Developer and software test 'Dynamo', notorious for approaching projects with a maximum of gusto and minimum of fuss.
-My focus is on delivering the most complex information systems, having worked on projects with companies ranging from the Fortune 500 to the most innovative startups and technical teams.
-Seeking the next challenging role greenfield or bluesky :)
+My focus is on delivering the most complex information systems, having worked as a tester on projects with companies ranging from the Fortune 500 to the most innovative startups and technical teams.
+Seeking my first dev-role in the next chapter on my mission; greenfield or bluesky here I come :smile:
 
 ### position: Software Developer
 
@@ -10,8 +10,8 @@ Seeking the next challenging role greenfield or bluesky :)
 |Title | Description | Tech Stack | Test tools|
 | :-:| :-:| :-:| :-:|
 | <a href="http://routearound.herokuapp.com/">Route Around </a> | My group delivered the route-around web app., on time and to budget :laughing: A circular route geeneration app. for the urban runner/ dog walker. I enjoyed delivering key story-points on the project, also assisting with coordinating the background workflow of the project; cheering on every achievement; from the minutest marker drop from googlemaps directionService, to the sheer brilliance of other team-mates. View our <a href="https://github.com/Fantastic-Makers-Group-2-final-Project/Route_Around">README</a> | React, Node.js, Express, Google Maps | Jest, Jasmine, Travis, Heroku|
-|<a href="https://github.com/robertwoolley99/acebook-greenbook">Acebook - Greenbook </a> | The Greenbook team delivered their Makers group project as specified by Product Owner of the Facebook web app. (using agile principles) The project essentially exercised how well we worked to client specification, but the team stuck in and seized the opportunity (frequently groping in the dark) to deliver something pretty decent. View our <a href="https://github.com/robertwoolley99/acebook-greenbook"> README </a> :grin: | Ruby on Rails, CSS bootstrap, HTML | Capybara, RSpec, Selenium-webdriver, Travis, Codeclimate, Heroku |
-| <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> Bank Tech test </a> | I enjoyed using TDD to complete this interactive commandline program, showcasing basic but fundamental elements of OO programming. View <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> README </a> :wink:| Ruby, Cmdline | RSpec | 
+|<a href="https://github.com/robertwoolley99/acebook-greenbook">Acebook - Greenbook </a> | The Greenbook team delivered their Makers group project as specified by Product Owner of the Facebook web app. (using agile principles) The project essentially exercised how well we worked to client specification, but the team stuck in and seized the opportunity (frequently groping in the dark) to deliver something pretty decent. View our <a href="https://github.com/robertwoolley99/acebook-greenbook"> README </a> | Ruby on Rails, CSS bootstrap, HTML | Capybara, RSpec, Selenium-webdriver, Travis, Codeclimate, Heroku |
+| <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> Bank Tech test </a> | I enjoyed using TDD to complete this interactive commandline program, showcasing basic but fundamental elements of OO programming. View <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> README </a> | Ruby, Cmdline | RSpec | 
 
 
 ### experience:
