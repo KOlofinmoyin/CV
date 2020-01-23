@@ -1,4 +1,7 @@
 ## Peter Kehinde Olofinmoyin
+
+[projects](#projects) | [experience](#experience) | [education](#education) | [hobbies](#hobbies) | [contributions](#contributions) | [contact](#contact)
+
 ### about:
 Hi, I'm Kehinde Peter. A Software Developer and software test 'Dynamo', notorious for approaching projects with a maximum of gusto and minimum of fuss.
 My focus is on delivering the most complex information systems, having worked as a tester on projects with companies ranging from the Fortune 500 to the most innovative startups and technical teams.
@@ -6,7 +9,7 @@ Seeking my first dev-role in the next chapter on my mission; greenfield or blues
 
 ### position: Software Developer
 
-### Projects:
+### <a name="projects">projects</a>:
 |Title | Description | Tech Stack | Test tools|
 | :-:| :-:| :-:| :-:|
 | <a href="http://routearound.herokuapp.com/">Route Around </a> | My group delivered the route-around web app., on time and to budget :laughing: A circular route geeneration app. for the urban runner/ dog walker. I enjoyed delivering key story-points on the project, also assisting with coordinating the background workflow of the project; cheering on every achievement; from the minutest marker drop from googlemaps directionService, to the sheer brilliance of other team-mates. View our <a href="https://github.com/Fantastic-Makers-Group-2-final-Project/Route_Around">README</a> | React, Node.js, Express, Google Maps | Jest, Jasmine, Travis, Heroku|
@@ -14,7 +17,7 @@ Seeking my first dev-role in the next chapter on my mission; greenfield or blues
 | <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> Bank Tech test </a> | I enjoyed using TDD to complete this interactive commandline program, showcasing basic but fundamental elements of OO programming. View <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> README </a> | Ruby, Cmdline | RSpec | 
 
 
-### experience:
+### <a name="experience">experience</a>:
 company: **AIG LIFE Ltd**
 -  position: **Senior Test Consultant**
 -  timeperiod: April 2018 - May 2019
@@ -37,13 +40,13 @@ company: **MICROSOFT, Reading**
 - timeperiod: Jan. 2016 - Feb. 2016
 - description: Joined in implementing Dynamics 360 CRM project, for the Thames Valley Police (TVP) & Hampshire Constabulary (HC) forces, ()Microsoft delivering partner).
 
-### education:
+### <a name="education">education</a>:
 - degree: **BSc.(Hons) Computer Science**
 - timeperiod: Jan 2001 - July 2005
 - description: Analysis & Design, Data Structures & Algorithms and Software System Engineering and Design, etc.
   website: https://bit.ly/31ecA2m
 
-### hobbies:
+### <a name="hobbies">hobbies</a>:
 name: Violin
 - Style: classical
 - url: https://www.ellso.org/
@@ -56,11 +59,11 @@ name: Cycling
 - Style: Road-bike
 - url: (follow me on strava: https://www.strava.com/athletes/4048898)
 
-### contributions:
+### <a name="contributions">contributions</a>:
 - https://github.com/24pullrequests/24pullrequests
 - https://codebar.io/london
 
-### contact:
+### <a name="contact">contact</a>:
 - email: kehindeolofinmoyin@hotmail.com
 - phone: 0796 0994446
 - city: London
