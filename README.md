@@ -38,7 +38,7 @@ company: **MICROSOFT, Reading**
 - description: Joined in implementing Dynamics 360 CRM project, for the Thames Valley Police (TVP) & Hampshire Constabulary (HC) forces, ()Microsoft delivering partner).
 
 ### education:
-- degree: **BSc.(Hons) Computer Science
+- degree: **BSc.(Hons) Computer Science**
 - timeperiod: Jan 2001 - July 2005
 - description: Analysis & Design, Data Structures & Algorithms and Software System Engineering and Design, etc.
   website: https://bit.ly/31ecA2m
