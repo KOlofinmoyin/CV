@@ -38,7 +38,7 @@ company: **IBM**
 company: **MICROSOFT, Reading**
 - position: **Principal Test Consultant**
 - timeperiod: Jan. 2016 - Feb. 2016
-- description: Joined in implementing Dynamics 360 CRM project, for the Thames Valley Police (TVP) & Hampshire Constabulary (HC) forces, ()Microsoft delivering partner).
+- description: Joined in implementing Dynamics 360 CRM project, for the Thames Valley Police (TVP) & Hampshire Constabulary (HC) forces, (Microsoft delivering partner).
 
 ### <a name="education">education</a>:
 
