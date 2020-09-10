@@ -19,6 +19,14 @@ I’ve worked on projects with companies ranging from the Fortune 500/ the most 
 | <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> Bank Tech test </a> | I enjoyed using TDD to complete this interactive commandline program, showcasing basic but fundamental elements of OO programming. View <a href="https://github.com/KOlofinmoyin/Bank_tech_test"> README </a> | Ruby, Cmdline | RSpec |
 
 ### <a name="experience">experience</a>:
+
+company: **Makers Academy**
+-  position: **Software Developer**
+-  timeperiod: Sept. 2019 - Jan. 2020
+-  description: Graduate of Makers Academy, Jan 2020. I have experience with Ruby/Rails, JavaScript and TDD. Pre Makers I worked as a Software Tester for over a decade.
+- Software Fundamentals: Test-Driven Development and Object Oriented Programming, Introduction to the Web and Data Persistence, JavaScript, Front-end Development and Engineering Project I, Engineering Project II & III  
+- website: http://makers.tech
+
 company: **AIG LIFE Ltd**
 -  position: **Senior Test Consultant**
 -  timeperiod: April 2018 - May 2019
