@@ -3,9 +3,9 @@
 [projects](#projects) | [experience](#experience) | [education](#education) | [hobbies](#hobbies) | [contributions](#contributions) | [contact](#contact)
 
 ### about:
-Hi, I'm Kehinde Peter. A Software Developer and software test 'Dynamo', notorious for approaching projects with a maximum of gusto and minimum of fuss.
-My focus is on delivering the most complex information systems, having worked as a tester on projects with companies ranging from the Fortune 500 to the most innovative startups and technical teams.
-Seeking my first dev-role in the next chapter on my mission; greenfield or bluesky here I come :smile:
+Junior Full-stack developer searching for my first Junior Software Developer role. Spent the past 14years becoming the bestest best Software Tester i.e. The wizard of Oz; now I’m ready to begin my journey to become Gandalf (can make tea and will sing too).
+
+I’ve worked on projects with companies ranging from the Fortune 500/ the most innovative start-ups and look forward to meeting yours 😊:smile:
 
 ### position: Software Developer
 
