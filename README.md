@@ -4,7 +4,7 @@
 
 ### about:
 I'm a Junior Full-stack developer searching for my first Developer role. 
-Prior to software development, I worked as a Software tester. I worked with companies ranging from the Fortune 500 & the most innovative start-ups, delivering their test-strategy. I implemented a few automated test-frameworks and enjoyed participating in agile ceremonies - finally deciding the way to become the best tester, is to become a software developer.
+Prior to software development, I worked as a Software tester. I worked with companies ranging from the Fortune 500, to the most innovative start-ups - delivering their test-strategy. I implemented a few automated test-frameworks and enjoyed participating in agile ceremonies - finally deciding the way to become the best tester, is to become a software developer.
 
 I completed a bootcmap at Makers Academy, where I learnt how to build full-stack applications using TDD and BDD practices, pair programming, and agile processes. I am now working to extend my learning - interning on the Thoughtbots <a href="https://github.com/thoughtbot/administrate/"> `administrate` </a> gem.
 
