@@ -3,9 +3,12 @@
 [projects](#projects) | [experience](#experience) | [education](#education) | [hobbies](#hobbies) | [contributions](#contributions) | [contact](#contact)
 
 ### about:
-Junior Full-stack developer searching for my first Junior Software Developer role. Spent the past 14years becoming the bestest best Software Tester i.e. The wizard of Oz; now I’m ready to begin my journey to become Gandalf (can make tea and will sing too).
+I'm a Junior Full-stack developer searching for my first Junior Software Developer role. 
+Prior to software development, I worked as a Software tester. I worked with companies ranging from the Fortune 500/ the most innovative start-ups, delivering their test-strategy. I implemented a few automated test-frameworks and enjoyed participating in agile ceremonies - finally deciding the way to become the best tester, is to become a software developer.
 
-I’ve worked on projects with companies ranging from the Fortune 500/ the most innovative start-ups and look forward to meeting yours 😊:smile:
+I completed a bootcmap at Makers Academy, where I learnt how to build full-stack applications using TDD and BDD practices, pair programming, and agile processes. I am now working to extend my learning - interning on the Thoughtbots <a href="https://github.com/thoughtbot/administrate/"> `administrate` </a> gem.
+
+My details remain the same and I welcome the opportunity to discuss further with your team😊.
 
 ### position: Software Developer
 
